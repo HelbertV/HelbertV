@@ -42,4 +42,4 @@ Here are some ideas to get you started:
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HelbertVrepo=ELLEN2121&theme=react)](https://github.com/HelbertV/HelbertV)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HelbertVrepo=HelbertV&theme=react)](https://github.com/HelbertV/HelbertV)
