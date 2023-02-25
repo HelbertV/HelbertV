@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**HelbertV/HelbertV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, My name is Helbert.👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I am currently studying Development at Alura.
+- 🌱 Atualmente estou desenvolvendo na Alura Cursos.
+-    Moro em São Paulo
 
 -->
-
-<h1> Hi! My name is Helbert. </h1>
 
 <div>
   <a href="https://github.com/HelbertV">
