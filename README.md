@@ -33,9 +33,6 @@ Here are some ideas to get you started:
     
 </div>
   <a href="https://www.linkedin.com/in/helbert-valeriano11942313569/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/HelbertV/HelbertV/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=HelbertVrepo=HelbertV&theme=react)](https://github.com/HelbertV/HelbertV)
