@@ -1,8 +1,7 @@
 ### Hi there, My name is Helbert.👋
 
-- 🔭 I’m currently working on ...
-- 🌱 Atualmente estou desenvolvendo na Alura Cursos.
--    Moro em São Paulo
+- 🌱 Atualmente estou me especializando na Alura Cursos, com foco em Analise e desenvolvimento de sistemas.
+- 🏠 Moro em São Paulo
 
 -->
 
